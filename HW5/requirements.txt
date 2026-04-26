@@ -1,0 +1,7 @@
+tensorflow==2.21.0
+numpy==2.4.4
+pandas==3.0.2
+matplotlib==3.10.8
+scikit-learn==1.8.0
+moviepy==2.1.2
+Pillow==11.3.0
